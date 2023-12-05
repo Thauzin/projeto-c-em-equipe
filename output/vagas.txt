@@ -1,0 +1,5 @@
+Placa: SEU6E10, Vaga: 1, Data e Hora de Chegada: 12/10/2023 20:20:20
+Placa: AZI9762, Vaga: 10, Data e Hora de Chegada: 12/02/2023 12:12
+Placa: SEU6E10, Vaga: 1, Data e Hora de Chegada: 21/12/2023 9:12
+Placa: AZI9762, Vaga: 2, Data e Hora de Chegada: 20/12/2023 7:12
+Placa: SEU6E10, Vaga: 2, Data e Hora de Chegada: 20/12/2023 23:12

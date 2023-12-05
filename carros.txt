@@ -1,0 +1,3 @@
+Modelo: Audi, Ano: 2023 Placa: AMO1234 Cor: Preto
+Modelo: 1, Ano: 2 Placa: 23 Cor: 23
+Modelo: 2, Ano: 2 Placa: 132 Cor: 32
