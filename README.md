@@ -1,4 +1,4 @@
-Meu primeiro projeto em C com manipulação de arquvivos, realizado em colaboração com companheiros acadêmicos no primeiro ano da faculdade.
+Meu primeiro projeto em C com manipulação de arquivos, realizado em colaboração com companheiros acadêmicos no primeiro ano da faculdade.
 
 ![Captura de tela 2024-01-09 193456](https://github.com/Thauzin/projeto-c-em-equipe/assets/147927196/7598de50-7f2e-465b-b619-6c147a0c300f)
 
